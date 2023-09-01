@@ -9,16 +9,6 @@
 
 React wrapper around [Popper](https://popper.js.org).
 
----
-
-## ⚠️ This library is in maintenance mode!
-
-This library wraps `@popperjs/core`, not `@floating-ui/dom`.
-
-To use the new Floating UI package with React, instead visit https://floating-ui.com/docs/react-dom. 
-
----
-
 ## Install
 
 Via package managers:
